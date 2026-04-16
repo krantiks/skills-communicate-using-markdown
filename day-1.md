@@ -3,6 +3,8 @@
 - [ ] check out the [github blog] (https://github.blog) for topic ideas.
 - [ ] learn about [github pages] (https://skills.github.com/#first-day-on-github).
 - [ ] convert my first blog post into an actual webpage.
+![cloudy morning](https://octodex.github.com/images/cloud.jpg)
+<img alt="cloudy morning"src="https://octodex.github.com/images/cloud.jpg"width="100 "align="right   
 ## review
 convert an image or video from dark mode to light mode using [ffmpeg] (https://www.ffmpeg.org)
 ```bash
